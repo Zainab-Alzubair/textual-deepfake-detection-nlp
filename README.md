@@ -93,6 +93,6 @@ textual-deepfake-detection-nlp/
 
 ## Author
 
-Zainab Alzubair
-Data Science, AI, and Digital Marketing student based in Berlin
-LinkedIn: https://www.linkedin.com/in/zainab-alzubair/
+* Zainab Alzubair
+* Data Science, AI, and Digital Marketing student based in Berlin
+* LinkedIn: https://www.linkedin.com/in/zainab-alzubair/
